@@ -12,6 +12,15 @@
   - HMAC 
         - ViewController2.swift
         - 使用HMAC金鑰進行資料傳輸簽名
+  - AES
+        - ViewController3.swift
+        - 使用AES加密
+  - RSA
+        - ViewController4.swift
+        - 使用RSA進行加密
+  - RSA+AES
+        - ViewController5.swift
+        - 使用AES加密 傳送資料 RSA 加密AES金鑰  並使用RSA 計算簽名
 
 
 
